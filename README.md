@@ -12,7 +12,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
+- Microsoft Azure (Virtual Machines/Computer)
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -22,11 +22,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+    a. Admin Panel -> Agents -> Roles
+    b. Supreme Admin
+- Configure Departments
+    a. Admin Panel -> Agents -> Departments
+    b. System Administrators
+- Configure Teams
+    a. Admin Panel -> Agents -> Teams
+      i.   Level I Support
+      ii.  Level II Support
+- Allow anyone to create tickets
+    a. Admin Panel -> Settings -> User Settings
+    b. Registration Required: Require registration and login to create tickets
+- Configure Agents (workers)
+    a. Admin Panel -> Agents -> Add New
+          i.  Jane
+          ii. John
+
+
 
 <h2>Configuration Steps</h2>
 
