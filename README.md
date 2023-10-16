@@ -39,6 +39,21 @@ This tutorial outlines the post-install configuration of the open-source help de
     a. Admin Panel -> Agents -> Add New
           i.  Jane
           ii. John
+- Configure Users (customers)
+    a. Agent Panel -> Users -> Add New
+          i.  Karen
+          ii. Ken
+- Configure SLA
+    a. Admin Panel -> Manage -> SLA
+        i.   Sev-A (1 hour, 24/7)
+        ii.  Sev-B (4 hours, 24/7)
+        iii. Sev-C (8 hours, business hours)
+- Configure Help Topics
+    a. Admin Panel -> Manage -> Help Topics
+        i.   Business Critical Outage
+        ii.  Personal Computer Issues
+        iii. Equipment Request
+        iv.  Password Reset
 
 
 
